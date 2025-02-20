@@ -1,7 +1,8 @@
-# Model H
+# Model H Remix
 Replacement Model M controller board
 
-![](https://user-images.githubusercontent.com/131752/81319336-5ff09680-9044-11ea-89f3-dcacf202a1eb.jpg)
+<img width="1421" alt="Model H Rmx Kicad render" src="https://github.com/user-attachments/assets/ff484786-7dbd-4fe1-8998-94f5adc767c4" />
+
 
 Still a work in progress.
 
