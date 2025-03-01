@@ -18,8 +18,7 @@ Still work in progress.
 
 ### **DFU Program**
 - Attach a ST-LINK v2 programmer to the Debug connector. Only the 3 wires shows in the pic are needed. ST-LINK pinout are indicated normally on the side of the programmer<br>
-<img src="site/pics/Debug connector pinout.jpg" alt="Debug connector pinout" height="300">
-<img src="site/pics/ST Link v2.jpg" alt="ST Link v2" height="300"><br>
+<img src="site/pics/ST-Link connection.png" alt="Programmer connection">
 
 - Power supply the board with a USB cable;<br>
 
