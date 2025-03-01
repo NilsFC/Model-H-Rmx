@@ -52,8 +52,8 @@ cd Desktop\Firmware
     -	By pressing the Reset tactile button on the board, if it's reachable;
 <br>
 4) Launch DFU writing utility by typing<br>
-dfu-util.exe -D ibm_modelh_iso_vial.bin
-![alt text](<site/pics/dfu-util command prompt screenshot.png>)
+dfu-util.exe -D ibm_modelh_iso_vial.bin<br>
+<img src="site/pics/dfu-util command prompt screenshot.png" alt="Cmd promt"><br>
 
 ## **Credits**  
 
