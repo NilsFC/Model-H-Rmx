@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Model H Rmx")(type "KiCad")(uri "${KIPRJMOD}/Model H Rmx.pretty")(options "")(descr ""))
+)
