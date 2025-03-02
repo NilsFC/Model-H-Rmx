@@ -1,5 +1,6 @@
 # **Model H Remix**
 ## Replacement Model M controller board
+Project wiki: https://github.com/NilsFC/Model-H-Rmx/wiki
 
 <img width="1421" alt="Model H Rmx Kicad render" src="https://github.com/user-attachments/assets/ff484786-7dbd-4fe1-8998-94f5adc767c4" />
   
