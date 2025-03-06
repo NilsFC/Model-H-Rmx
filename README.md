@@ -23,4 +23,4 @@ This version is just a rework of the original design from **John Hawthorn**. <br
 Check out the fantastic work of this guy to whom I am very grateful. Thanks to his Open Source project I really learned a lot. [Model H Project](https://modelh.club/)
 <br>
 
-Gratitude goes also to **Jerome Berclaz** for his update work of the Model H software in QMK and QMK-Vial firmware. https://github.com/jberclaz/modelh
+Gratitude goes also to **Jerome Berclaz** for his update work on the Model H software in QMK and QMK-Vial firmware. https://github.com/jberclaz/modelh
