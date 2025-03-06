@@ -1,5 +1,7 @@
 # **Model H Remix**
+
 ## Replacement Model M controller board
+
 Project wiki: https://github.com/NilsFC/Model-H-Rmx/wiki
 
 ![Model H Remix Kicad Render](<site/pics/Model H Remix Kicad Render.png>)
@@ -14,8 +16,11 @@ The "Model H Remix" is designed to fit and work with standard 101/102 keys keybo
 ![Model M](<site/pics/Model M.jpg>)
 
 ![Model M USB Connector](<site/pics/Model M USB Connector.jpg>)
-## **Credits**  
+
+## **Credits**
 
 This version is just a rework of the original design from **John Hawthorn**. <br>
-Check out the fantastic work of this guy to whom I am very grateful. Thanks to his Open Source project I really learned a lot.  [Model H Project](https://modelh.club/)  
+Check out the fantastic work of this guy to whom I am very grateful. Thanks to his Open Source project I really learned a lot. [Model H Project](https://modelh.club/)
+<br>
 
+Gratitude goes also to **Jerome Berclaz** for his update work on the Model H software in QMK and QMK-Vial firmware. https://github.com/jberclaz/modelh
