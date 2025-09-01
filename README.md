@@ -1,17 +1,25 @@
-# **Model H Remix**
+# **Model H Remix 2.0**
 
 ## Replacement Model M controller board
 
 Project wiki: https://github.com/NilsFC/Model-H-Rmx/wiki
 
-![Model H Remix Kicad Render](<site/pics/Model H Remix Kicad Render.png>)
+## **What's new in 2.0?**
+
+-The "Notch": increased compatibility with all Model M cases;<br>
+-The "Experimental Area": on-board support to Solenoid;<br>
+-The "Testpoints": all testpoint grouped together with Solenoid and one extra I/O available to users;<br>
+
+![Model H Remix Kicad Render](<site/pics/Model H Remix Kicad 2.0 Render.png>)
+
+## **Description**
 
 This board is a direct replacement controller for the classic IBM Model M keyboards.<br>
 Old mechanical keyboards are making a comeback among enthusiasts and programmers and gaining value.<br>
 Unfortunately, modern computers no longer have DIN or PS2 ports, so there’s no simple way to connect a 40-year-old hardware to a brand-new laptop.<br>
 By replacing the legacy electronics inside the keyboard, it’s possible to revive a “piece of history” and even add modern functions like USB connectivity and remappable characters. The original PCB can be preserved to revert the keyboard to its original state.<br>
 
-The "Model H Remix" is designed to fit and work with standard 101/102 keys keyboards.<br>
+The "Model H Remix" is designed to fit and work with standard 101/102/85/86 keys keyboards.<br>
 
 ![Model M](<site/pics/Model M.jpg>)
 
